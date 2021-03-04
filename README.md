@@ -1,1 +1,1 @@
-# CosmixZip
+# CosmixLauncher
